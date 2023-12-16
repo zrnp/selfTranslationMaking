@@ -1,0 +1,77 @@
+.byline {
+    display: block;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    font-weight: bold;
+    margin: 0
+    }
+.message {
+    display: block;
+    text-align: center;
+    margin: 1em 0
+    }
+img{max-width:100%;}
+.note{font-family:'华文仿宋','仿宋',serif;}
+h1{font-size:1.4em;text-align:center;}
+h2{font-size:1.24em;text-align:center;}
+blockquote {
+    padding: 0 0.5em;
+    margin: 0 1em;
+    border-left: 4px solid #888888;
+}
+.t2sO {
+  font-size: 0.8em;
+  font-family:Times New Roman,serif;
+  display: block;}
+.t2sO i{
+  font-family:timesi,serif;}
+.t2sO em{
+  font-family:timesi,serif;}
+.t2sT{display:block;}
+.cyxy-trs-source-ted {
+  font-size: 0.8em;
+  font-family:Times New Roman,serif;
+  display: block;}
+.cyxy-trs-source-ted i{
+  font-family:timesi,serif;}
+.cyxy-trs-source-ted em{
+  font-family:timesi,serif;}
+.cyxy-trs-target{display:block;}
+hr {
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: border-box;
+  background-color: #888;
+  box-sizing: border-box;
+  color: gray;
+  display: block;
+  font-size: 1em;
+  height: 4px;
+  overflow: hidden;
+  margin: 1.6em 0;
+  padding: 0;
+  border: currentColor none medium;
+}
+hr:after{
+  content:" ";
+  display:table;}
+hr:before{
+  content:" ";
+  display:table;}
+.toc-heading{display:none;}
+.endnote-link {
+    display: block;
+    font-family:Times New Roman,serif;
+    font-size: 0.75em
+    }
+sup {
+  font-family: "华文仿宋", "仿宋", serif;
+}
+.subtitle {
+  text-align: center;
+  font-family: "Times New Roman", "方正小标宋_GBK", serif;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #44cef6;
+}
+p{text-align:justify;}
